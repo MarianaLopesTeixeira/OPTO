@@ -1,2 +1,2 @@
 # OPTO
-Repository for Applied Optoelectronics project (IST course).
+Repository for Applied Optoelectronics project (IST course - MEE).
